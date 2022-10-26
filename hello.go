@@ -5,6 +5,6 @@ import (
 )
 
 func main() {
-	wordLengh := "abracadabra"
+	wordLengh := "synthwave"
 	fmt.Println(len(wordLengh))
 }
